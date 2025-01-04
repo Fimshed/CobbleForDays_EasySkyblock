@@ -2,23 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "G": {
-      "item": "minecraft:glass"
+    
+    "S": {
+      "item": "minecraft:stone"
     },
-    "L": {
-      "item": "minecraft:lava_bucket"
+    "C": {
+      "tag": "minecraft:cobblestone"
     },
-    "R": {
-      "tag": "minecraft:logs"
-    },
-    "W": {
-      "item": "minecraft:water_bucket"
-    }
+    
   },
   "pattern": [
-    "RRR",
-    "WGL",
-    "RRR"
+    "SSS",
+    "CCC",
+    "SSS"
   ],
   "result": {
     "count": 1,
